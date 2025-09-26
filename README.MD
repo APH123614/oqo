@@ -97,4 +97,4 @@ We welcome contributions! Please open an issue to discuss enhancements or questi
 This project is licensed under the MIT license. See the LICENSE file for details.
 
 📬 Contact
-For questions or commercial enquiries, please contact Team OQO at info@yourdomain.com.
+For questions or commercial enquiries, please contact Team OQO at support@tibr.tech.
