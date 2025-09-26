@@ -10,7 +10,7 @@ The current version of the OQO schema lives in the `open-schema` folder of this 
 
 pgsql
 Copy code
-https://yourdomain.com/open-schema/oqo.json
+https://tibr.ai/open-schema/oqo.json
 pgsql
 Copy code
 
