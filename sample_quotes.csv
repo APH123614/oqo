@@ -1,0 +1,102 @@
+
+quote_id,customer_id,project_name,quote_amount,currency,status,created_date,approved_date,expires_date,notes
+Q0001,2824,Website Supply Chain,5275.39,CAD,Draft,2025-03-18,,2026-03-14,timeline negotiation agreement scope price review client contract.
+Q0002,9279,Accounting Website,11444.28,GBP,Submitted,2025-01-18,,2026-03-25,design price support agreement testing feature timeline client.
+Q0003,6514,E-commerce Inventory,7908.58,EUR,Approved,2025-02-27,2025-03-08,2025-11-06,communication contract client quality timeline design feature testing.
+Q0004,6925,HR Design,14239.15,USD,Submitted,2024-12-09,,2025-11-15,upgrade client quality design communication testing agreement support.
+Q0005,3664,Data Data,4585.39,EUR,Draft,2025-02-28,,2025-12-08,contract upgrade support communication quality feature testing delivery.
+Q0006,4598,Logistics Mobile App,4966.44,USD,Approved,2025-01-06,2025-01-15,2025-11-11,maintenance negotiation testing launch feedback review contract upgrade.
+Q0007,3340,Supply Chain Analytics,5309.24,EUR,Expired,2025-01-13,,2026-03-24,quality delivery upgrade feature feedback scope launch price.
+Q0008,2796,Analytics Marketing,15945.55,GBP,Expired,2024-10-12,,2026-02-01,quality communication review design price testing delivery scope.
+Q0009,9797,Supply Chain Logistics,2675.27,GBP,Submitted,2025-01-20,,2025-10-26,design review support negotiation client agreement testing feature.
+Q0010,9317,Accounting Design,3480.37,CAD,Expired,2025-02-08,,2025-10-26,launch testing feedback price client communication support quality.
+Q0011,6038,Finance Mobile App,5197.0,USD,Draft,2025-01-28,,2025-11-12,contract feature negotiation feedback support launch design implementation.
+Q0012,7932,Design DevOps,15227.67,CAD,Approved,2025-01-06,2025-01-28,2026-01-29,communication review launch client upgrade negotiation scope support.
+Q0013,1344,HR DevOps,4987.24,CAD,Draft,2024-10-14,,2025-11-10,upgrade timeline scope testing negotiation design client feature.
+Q0014,8953,Design DevOps,3080.08,GBP,Submitted,2025-01-25,,2026-02-07,maintenance client negotiation agreement delivery launch communication upgrade.
+Q0015,1887,E-commerce Mobile App,8351.12,EUR,Draft,2024-11-28,,2025-12-14,maintenance contract communication feature agreement timeline review upgrade.
+Q0016,5092,Inventory AI,16256.43,USD,Draft,2025-03-11,,2026-03-13,price timeline upgrade support agreement contract communication client.
+Q0017,7570,Mobile App Marketing,7889.98,GBP,Approved,2025-01-20,2025-01-30,2026-02-11,contract feedback feature maintenance implementation client price negotiation.
+Q0018,9883,Mobile App Logistics,1614.72,GBP,Expired,2025-02-08,,2025-12-05,scope review timeline support contract implementation launch testing.
+Q0019,4853,Automation E-commerce,18861.12,CAD,Expired,2025-02-25,,2025-11-05,launch timeline agreement review testing communication feature client.
+Q0020,6147,Finance Supply Chain,8217.82,EUR,Declined,2024-12-15,,2025-11-13,price communication client timeline maintenance design feature review.
+Q0021,6718,Inventory Finance,7705.78,CAD,Declined,2025-02-12,,2026-01-11,launch review price implementation client communication timeline feature.
+Q0022,2891,E-commerce DevOps,3531.23,EUR,Expired,2024-11-18,,2026-01-21,maintenance design review feedback negotiation communication agreement price.
+Q0023,2512,Security Supply Chain,1359.69,EUR,Submitted,2025-03-08,,2026-01-01,support communication contract agreement price scope negotiation delivery.
+Q0024,3442,DevOps Mobile App,16774.6,CAD,Declined,2024-10-28,,2025-11-05,implementation delivery scope negotiation maintenance testing client communication.
+Q0025,2684,Data DevOps,17740.63,GBP,Expired,2024-11-04,,2025-12-25,support launch agreement price negotiation delivery feedback quality.
+Q0026,7745,Finance Supply Chain,3604.36,USD,Declined,2024-10-05,,2026-02-23,upgrade maintenance communication delivery implementation agreement quality client.
+Q0027,4652,Website Design,8270.09,EUR,Draft,2024-12-06,,2026-01-23,review quality contract testing price scope feature timeline.
+Q0028,5349,Mobile App E-commerce,12133.14,EUR,Approved,2025-01-15,2025-02-04,2026-03-05,client quality maintenance design scope delivery contract price.
+Q0029,9518,DevOps Design,7602.32,USD,Approved,2025-03-04,2025-03-15,2025-11-26,implementation review launch agreement testing maintenance delivery feature.
+Q0030,3085,Design Security,13466.12,GBP,Submitted,2025-03-02,,2026-03-20,implementation quality contract price launch feature client maintenance.
+Q0031,6279,AI AI,9122.12,CAD,Expired,2025-01-25,,2025-12-08,timeline implementation review testing launch agreement quality client.
+Q0032,6085,Finance Design,3373.4,USD,Submitted,2025-01-25,,2025-11-13,communication agreement maintenance quality feedback contract client timeline.
+Q0033,1090,E-commerce Security,4767.4,GBP,Draft,2025-02-15,,2025-12-28,client communication feature negotiation testing quality upgrade implementation.
+Q0034,9270,Security DevOps,9195.32,CAD,Declined,2025-01-19,,2025-12-31,upgrade design review feedback launch feature contract scope.
+Q0035,5681,Finance Supply Chain,7049.03,USD,Submitted,2024-11-03,,2025-12-24,quality feature maintenance timeline agreement contract support design.
+Q0036,8633,Security Mobile App,4533.27,GBP,Declined,2025-02-22,,2025-10-31,negotiation quality feedback price delivery feature launch maintenance.
+Q0037,7865,DevOps DevOps,16097.43,CAD,Declined,2024-11-21,,2026-01-03,agreement feedback price quality testing negotiation communication review.
+Q0038,7624,Marketing AI,18431.06,USD,Declined,2025-02-24,,2026-03-19,price timeline agreement feature communication negotiation launch review.
+Q0039,7211,Logistics Design,9366.64,EUR,Declined,2024-12-06,,2026-02-10,design timeline feedback price scope support client testing.
+Q0040,2124,Mobile App Website,19017.43,CAD,Draft,2025-03-04,,2025-12-04,upgrade feature feedback client maintenance launch delivery negotiation.
+Q0041,7043,Marketing Accounting,12341.33,USD,Submitted,2024-12-14,,2025-11-22,negotiation price implementation quality review delivery client scope.
+Q0042,4978,E-commerce CRM,17080.72,USD,Expired,2024-10-06,,2026-01-22,contract agreement delivery timeline testing price negotiation maintenance.
+Q0043,9031,E-commerce Security,19235.36,GBP,Submitted,2025-01-15,,2025-12-10,review design contract feedback communication maintenance agreement delivery.
+Q0044,5397,Logistics Finance,16699.25,USD,Approved,2025-01-19,2025-01-27,2026-02-21,negotiation quality testing price feedback agreement support timeline.
+Q0045,8988,Design Data,16057.73,EUR,Approved,2025-02-25,2025-03-20,2026-01-04,contract price review maintenance timeline client delivery launch.
+Q0046,9004,DevOps Finance,13966.88,GBP,Declined,2024-09-30,,2025-11-18,implementation upgrade quality negotiation launch testing feedback support.
+Q0047,8753,DevOps Cloud,7203.27,EUR,Approved,2025-03-24,2025-04-08,2026-01-03,implementation design upgrade client maintenance support scope delivery.
+Q0048,9779,Marketing Design,4719.5,GBP,Approved,2025-02-23,2025-03-20,2026-03-09,launch implementation client maintenance negotiation contract support timeline.
+Q0049,5952,Website DevOps,2968.37,USD,Draft,2025-02-14,,2026-01-08,feature feedback client price implementation upgrade communication agreement.
+Q0050,6582,Marketing Mobile App,5423.33,GBP,Draft,2024-10-12,,2026-02-05,feedback timeline scope feature review quality implementation launch.
+Q0051,2395,Finance E-commerce,11382.42,GBP,Expired,2025-02-25,,2025-12-22,review quality communication contract implementation agreement feedback maintenance.
+Q0052,6003,HR Accounting,1674.49,USD,Submitted,2025-03-05,,2025-12-19,design timeline support upgrade contract launch scope negotiation.
+Q0053,1043,Security AI,13942.74,GBP,Approved,2024-10-04,2024-10-12,2026-01-07,implementation communication timeline upgrade design quality negotiation testing.
+Q0054,4241,Security E-commerce,11118.97,CAD,Approved,2024-11-01,2024-11-04,2025-11-10,support implementation negotiation communication client upgrade delivery feature.
+Q0055,7594,Supply Chain Cloud,11029.64,GBP,Draft,2025-02-26,,2025-11-05,agreement testing design price timeline client negotiation implementation.
+Q0056,1339,Supply Chain HR,1284.52,CAD,Declined,2025-02-05,,2026-02-16,design support agreement feedback timeline upgrade negotiation maintenance.
+Q0057,6460,Logistics E-commerce,17225.8,EUR,Declined,2025-03-22,,2026-03-01,implementation quality contract scope communication review support feature.
+Q0058,6296,E-commerce Automation,17365.76,USD,Expired,2025-01-22,,2026-02-08,scope maintenance review delivery feedback testing upgrade quality.
+Q0059,1845,Design Supply Chain,11209.78,EUR,Declined,2025-03-23,,2026-02-27,client price upgrade support implementation design negotiation communication.
+Q0060,7684,Inventory Finance,19849.01,USD,Declined,2024-10-26,,2025-12-04,feedback implementation review design agreement launch upgrade communication.
+Q0061,4993,AI DevOps,3320.52,CAD,Expired,2025-02-03,,2025-11-29,timeline design agreement testing negotiation contract price feature.
+Q0062,5891,HR HR,19978.6,GBP,Submitted,2025-01-18,,2026-03-12,feedback delivery testing quality communication launch support client.
+Q0063,4912,HR Automation,5054.47,GBP,Draft,2024-12-16,,2026-02-24,quality launch feature feedback scope timeline design implementation.
+Q0064,6439,E-commerce AI,2444.38,GBP,Draft,2024-11-01,,2026-02-07,feature timeline feedback design testing implementation delivery maintenance.
+Q0065,2315,Logistics DevOps,7910.18,EUR,Declined,2025-02-11,,2025-11-04,launch timeline upgrade implementation contract delivery scope maintenance.
+Q0066,2612,E-commerce AI,3744.11,EUR,Draft,2024-10-07,,2026-01-17,scope implementation delivery contract agreement timeline client design.
+Q0067,7751,HR Marketing,3814.68,USD,Expired,2025-01-01,,2025-12-26,feedback negotiation feature upgrade communication testing contract review.
+Q0068,5183,Website AI,18073.58,CAD,Draft,2025-01-17,,2026-01-22,negotiation implementation agreement design communication contract feature client.
+Q0069,7302,Blockchain E-commerce,5125.51,EUR,Expired,2024-12-10,,2026-01-09,price quality design launch scope communication implementation delivery.
+Q0070,9138,CRM Finance,12337.77,EUR,Submitted,2025-03-07,,2025-12-13,launch design feature client scope contract quality upgrade.
+Q0071,1546,HR Data,14781.02,USD,Approved,2024-12-18,2025-01-11,2026-02-09,support maintenance feature delivery design agreement timeline contract.
+Q0072,8894,CRM Logistics,16182.53,GBP,Draft,2024-11-01,,2025-12-22,quality contract delivery timeline launch price feature design.
+Q0073,3024,AI Data,13620.15,EUR,Expired,2025-01-01,,2026-01-29,client upgrade feedback price testing communication implementation launch.
+Q0074,2035,AI CRM,13160.17,USD,Submitted,2024-10-07,,2025-11-04,implementation feedback client contract upgrade communication design timeline.
+Q0075,7367,AI Data,13574.48,GBP,Expired,2024-11-04,,2026-02-09,client feedback agreement design scope delivery support launch.
+Q0076,8264,AI Finance,17181.28,USD,Approved,2025-02-12,2025-03-13,2026-01-25,scope quality design maintenance client agreement communication upgrade.
+Q0077,2501,Design Accounting,19436.32,USD,Approved,2024-11-27,2024-12-02,2026-03-19,maintenance timeline contract launch review agreement communication client.
+Q0078,6383,Analytics Accounting,555.29,CAD,Submitted,2025-02-11,,2025-12-29,support client price feature contract launch quality agreement.
+Q0079,4898,HR Logistics,807.73,EUR,Draft,2024-10-28,,2026-02-10,review client timeline feedback communication quality support design.
+Q0080,2786,AI Cloud,4820.22,USD,Expired,2024-12-12,,2026-02-20,price scope feedback quality agreement testing negotiation upgrade.
+Q0081,8267,Inventory Inventory,6781.18,CAD,Draft,2024-10-28,,2026-01-04,launch negotiation contract testing quality implementation design feature.
+Q0082,8433,Cloud Accounting,8888.89,USD,Expired,2024-11-20,,2026-02-13,communication upgrade agreement testing launch maintenance feedback delivery.
+Q0083,2557,Logistics Security,6594.21,EUR,Approved,2024-11-04,2024-11-26,2026-02-24,timeline launch negotiation contract agreement scope delivery feedback.
+Q0084,7105,Analytics DevOps,1669.63,EUR,Draft,2025-01-09,,2026-01-24,agreement scope implementation contract delivery negotiation review design.
+Q0085,4485,Analytics Blockchain,4872.77,USD,Approved,2025-02-15,2025-02-27,2025-11-24,design negotiation upgrade agreement price implementation testing delivery.
+Q0086,5381,Website Marketing,5828.77,EUR,Approved,2024-12-24,2024-12-25,2025-12-11,feature negotiation quality timeline launch delivery testing price.
+Q0087,2503,Cloud Design,7835.79,GBP,Approved,2024-11-05,2024-11-17,2026-01-13,testing negotiation timeline scope feature contract quality implementation.
+Q0088,1815,Inventory Supply Chain,9140.7,GBP,Declined,2025-02-28,,2026-02-16,agreement design maintenance review client support contract scope.
+Q0089,5640,HR Blockchain,10775.22,EUR,Draft,2024-11-21,,2026-02-04,launch scope price maintenance implementation client quality timeline.
+Q0090,5186,CRM Logistics,2839.69,GBP,Declined,2024-11-09,,2025-11-28,quality contract upgrade review delivery scope maintenance feedback.
+Q0091,1693,Security Website,9465.21,USD,Approved,2025-02-20,2025-03-06,2026-03-21,quality agreement implementation client launch price support timeline.
+Q0092,8538,Data Inventory,9015.88,USD,Submitted,2025-01-15,,2026-03-25,quality review timeline launch implementation delivery support client.
+Q0093,6456,Marketing Inventory,10454.42,USD,Expired,2025-02-03,,2025-12-14,delivery launch feature upgrade client timeline contract feedback.
+Q0094,3842,Accounting Analytics,15324.2,USD,Submitted,2025-03-05,,2026-03-01,communication negotiation launch testing review timeline upgrade scope.
+Q0095,8682,AI CRM,16028.43,USD,Approved,2025-02-02,2025-02-05,2026-01-13,communication launch scope contract delivery agreement feature review.
+Q0096,2479,Accounting Accounting,10387.82,GBP,Expired,2025-02-14,,2025-11-05,communication negotiation maintenance testing feedback design timeline price.
+Q0097,8381,E-commerce Logistics,19656.52,USD,Expired,2025-03-10,,2025-12-09,scope upgrade communication contract support feedback review feature.
+Q0098,7347,Security Logistics,13738.51,USD,Approved,2024-10-12,2024-10-23,2025-11-19,contract quality implementation design feature support scope launch.
+Q0099,3317,Data CRM,19370.08,GBP,Submitted,2025-02-25,,2025-11-16,implementation contract quality testing feature review delivery agreement.
+Q0100,9624,Inventory Security,10415.53,USD,Approved,2024-12-14,2024-12-20,2025-12-19,testing feedback maintenance upgrade feature timeline scope negotiation.
