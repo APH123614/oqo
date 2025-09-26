@@ -1,0 +1,39 @@
+{
+  "quoteId": "Q0123",
+  "issuer": {
+    "name": "Acme Construction Ltd.",
+    "address": "1234 Elm Street, Montreal, QC, Canada",
+    "contactEmail": "sales@acmeconstruction.com"
+  },
+  "client": {
+    "name": "Sunrise Realty Inc.",
+    "address": "456 Maple Avenue, Ottawa, ON, Canada",
+    "contactEmail": "projects@sunriserealty.ca"
+  },
+  "items": [
+    {
+      "description": "Site survey and inspection",
+      "quantity": 1,
+      "unitPrice": 1500.0,
+      "lineTotal": 1500.0
+    },
+    {
+      "description": "Architectural design work",
+      "quantity": 1,
+      "unitPrice": 8000.0,
+      "lineTotal": 8000.0
+    },
+    {
+      "description": "Project management",
+      "quantity": 40,
+      "unitPrice": 75.0,
+      "lineTotal": 3000.0
+    }
+  ],
+  "currency": "CAD",
+  "totalAmount": 12500.0,
+  "issueDate": "2025-09-25",
+  "expirationDate": "2025-11-25",
+  "status": "Draft",
+  "notes": "This quote is valid for 60 days from the issue date."
+}
