@@ -102,3 +102,10 @@ This project is licensed under the MIT license. See the LICENSE file for details
 OQO is part of the **TIBR growth campaign**, an initiative to modernise estimating and quoting workflows in the construction and services industries. To learn more about TIBR’s estimating software and services, visit [tibr.com](https://tibr.com).
 
 For questions or commercial enquiries, please contact Team OQO at support@tibr.tech.
+## Datasets
+
+## Datasets
+
+- [Standardized Quote Dataset – JSON Schema (TIBR)](https://www.kaggle.com/datasets/drandrewharris/standardized-quote-dataset-json-schema-tibr)
+
+
