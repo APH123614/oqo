@@ -37,9 +37,9 @@ def main():
     validator = Draft202012Validator(schema_data)
     errors = sorted(validator.iter_errors(quote_data), key=lambda e: e.path)
     if not errors:
-        print("✅ Quote is valid according to the schema.")
+        print("PASS: Quote is valid according to the schema.")
     else:
-        print(f"❌ Quote is invalid. Found {len(errors)} error(s):")
+        print(f"FAIL: Quote is invalid. Found {len(errors)} error(s):")
         for idx, error in enumerate(errors, 1):
             path = '.'.join(str(p) for p in error.path) or 'root'
             print(f" {idx}. [{path}] {error.message}")
